@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+body {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	background-image: url("bg.png");
+	background-size: cover;
+	width: 100%;
+}
+nav {	
+	position:relative;
+	left: 30%;
+	width: 40%;
+	font-size: 25px;
+	border-bottom: solid black 1px;	
+	text-align: center;
+}
+#logout {
+	position: absolute;
+	right: 30px;
+}
+h3 {
+	position: relative;
+	left: 2%;
+}
+.raport {
+	width: 20%;
+	position: absolute;
+	border-left: solid black 1px;
+	padding: 15px;
+}
+#div1 {
+	left: 2%;
+	border: none;
+}
+#div2 {
+	left:27%;
+}
+#div3 {
+	left: 52%;
+}
+#div4 {
+	left: 77%;
+}

@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+body {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	background-image: url("bg.png");
+	background-size: cover;
+	width: 100%;
+}
+nav {	
+	position:relative;
+	left: 30%;
+	width: 40%;
+	font-size: 25px;
+	border-bottom: solid black 1px;	
+	text-align: center;
+}
